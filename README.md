@@ -1,4 +1,5 @@
 # bai_thuc_hanh_so_01
+Bài 1
 Input{
   Ba số thực a,b,c (a khác 0)
 }
@@ -11,3 +12,4 @@ Output{
 Example{
   Cho a = 1, b = 3, c = 6
   Ta đc: PT vô nghiệm (delta<0) 
+
